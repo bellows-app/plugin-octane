@@ -1,3 +1,3 @@
-# plugin-octane
+# Bellows Octane Plugin
 
-[https://bellows.dev](https://bellows.dev)
+[https://bellows.dev/docs/plugins/octane](https://bellows.dev/docs/plugins/octane)
